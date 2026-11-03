@@ -11,7 +11,7 @@ python-subunit>=0.0.18 # Apache-2.0/BSD
 psycopg2>=2.5 # LGPL/ZPL
 PyMySQL>=0.7.6 # MIT License
 requests-mock>=1.1 # Apache-2.0
-pylint==1.4.1 # GNU GPL v2
+pylint==4.0.9 # GNU GPL v2
 sphinx>=1.6.2 # BSD
 oslosphinx>=4.7.0 # Apache-2.0
 oslotest>=1.10.0 # Apache-2.0
